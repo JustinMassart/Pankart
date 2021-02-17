@@ -28,7 +28,8 @@ Pearl Jam :
 
 The King Coleman :
 
-- le style de la page d'acceuil, cliquer sur un article (à droite) pourrait changer le fond et le texte de la page d'acceuil
+- le style de la page d'acceuil, cliquer sur un article (à droite) pourrait changer le fond et le texte de la page
+  d'acceuil
 
 Creative AWESOME sound (Aoede Musician) :
 
@@ -53,3 +54,14 @@ Never same sky :
 
 #### Dribbble :
 
+PUNK ROCK :
+
+- style de page d'acceuil, on rentre directement dedans
+
+DEUTSCHLAND :
+
+- la navigation en rond
+
+PINK FLOYD :
+
+- le survol ou clique sur un album/une image pourrait changer le fond
