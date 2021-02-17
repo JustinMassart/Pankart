@@ -2,9 +2,7 @@
 
 ## Différents supports
 
-Briefing : https://github.com/JustinMassart/Pankart/blob/master/briefing/Brief%20projet%20website%20PanKart%2020210212.docx
-
-Logo : https://github.com/JustinMassart/Pankart/blob/master/briefing/Pan%EA%93%98art%20petit.jpg
+https://github.com/hepl-dw/projet-pankart.git
 
 ### À propos de PANKART :
 
