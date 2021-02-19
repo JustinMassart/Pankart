@@ -2,6 +2,10 @@
 
 ## Projet PANKART
 
+### Lien vers Milanote :
+
+https://app.milanote.com/1Ld0fT1FRpghd9?p=aowczQKTiKW
+
 ### Liens vers les moodboards :
 
 Behance : https://www.behance.net/collection/182389349/PANKART
