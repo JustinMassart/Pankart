@@ -20,4 +20,3 @@ PANKART est un groupe de musique Rock/Celtic engagé qui aime lancer des coups d
 - Budget minimum pour typos/images
 - Section News (à voir...)
 - Mini-jeux contre certaines personnalités (à voir...)
-- 

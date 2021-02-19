@@ -35,7 +35,7 @@ Creative AWESOME sound (Aoede Musician) :
 
 - le style de la section FEATURED pourrait servir à présenter les différents membres du groupes
 - la section upcoming pour présenter les concerts/sorties futurs
-- la section de gallerie photo sous forme de grille
+- la section de galerie photo sous forme de grille
 
 Creative Studio (Volter) :
 
@@ -49,7 +49,7 @@ Metallica :
 Never same sky :
 
 - style de texte avec les mots à retenir en rempli
-- les prochains concerts discret en bas à droite
+- les prochains concerts, discret en bas à droite
 - la section BAND MEMBERS
 
 #### Dribbble :
