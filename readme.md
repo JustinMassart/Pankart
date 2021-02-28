@@ -37,86 +37,173 @@ pour ce projet est PANKART, un groupe de musique Rock/Celtic engagé.
 
 #### Arrière-plan
 
-- L'arrière-plan est une photo du groupe Pankart ou une série de photos qui défileront/qui disparaissent et réapparaissent/...
+- L'arrière-plan est une photo du groupe Pankart ou une série de photos qui défileront/qui disparaissent et
+  réapparaissent/...
 
-####Texte
+#### Texte
+
 - Le texte sera une introduction au site et groupe, un petit texte brièvement descriptif.
 
-####Petits plus
+#### Petits plus
 
-- Les dates de concerts peuvent être affichées en discret dans un coin de la page (en bas à droite par exemple) et cliquable pour rediriger vers la
-  page des dates.
+- Les dates de concerts peuvent être affichées en discret dans un coin de la page (en bas à droite par exemple) et
+  cliquable pour rediriger vers la page des dates.
 
 ## À propos
 
-###Contenu :
+### Contenu :
 
 - Une navigation.
 - Du texte.
 - Des photos.
 - Un lien vers les membres du groupe.
-  
-####Navigation
+
+#### Navigation
 
 - La navigation est la même que dans la page d’accueil.
-  
-####Texte
+
+#### Texte
 
 - Le texte introduit le groupe et le décrit.
 - Il est divisé en plusieurs paragraphes organisés pour donner du rythme et ne pas avoir de trop gros bloc de texte.
-  
-####Photos
+
+#### Photos
 
 - Les photos accompagnent les paragraphes, elles sont placées à côtés et peuvent aussi déborder sur le texte.
 - Elles sont cliquables pour rediriger vers la page des musiques, membres, contact, ...
-  
-####Bouton
+
+#### Bouton
 
 - Un bouton stylisé pour rediriger vers la page des membres.
 
 ## Les membres
 
-###Contenu :
+### Contenu :
 
-- La page des membres contient soit des petites sections pour chacun des membres ou alors un slider pour les faire
-  défiler. Dans tous les cas la page contient la navigation, du texte, des images, un background.
+- Une navigation.
+- Un slider.
+- Du texte.
+- Des images.
+- Un arrière-plan.
+
+#### Navigation
+
 - La navigation est la même que sur la page d’accueil.
-- Le texte présente le membre et des photos défilantes l’accompagnent.
-- Le background représente le style du membre, pour avoir des sections toutes un peu différentes (background et/ou
-  couleurs).
+
+#### Slider
+
+- Le slider est une grosse boîte prenant une bonne partie de la page.
+- Il contient le texte et les images.
+- Il permet de passer d'une partie à l'autre (aller à gauche et à droite) grâce à des boutons (sous formes de flèches ou
+  autre mais qui indique bien qu'on peut voyager dans le slider).
+- Si les membres du groupe le souhaitent, le style du slider peut changer (seulement des éléments mineurs, pas toute la
+  page), pour correspondre à l'état d'esprit du membre et de son caractère, ses goûts.
+
+#### Texte
+
+- Le texte, qui est dans le slider, présente le membre et des photos défilantes l’accompagnent.
+- Le texte est un élément qui peut changer de style si le membre le souhaite.
+
+#### Arrière-plan
+
+- L'arrière-plan est une photo du groupe entier, ciblé sur le membre.
+- L'arrière-plan est un élément qui peut change de style si le membre le souhaite.
 
 ## Les musiques
 
-- La page des musiques contient une navigation, des lecteurs, du texte, des images, des boutons et un background.
+### Contenu :
+
+- Une navigation.
+- Des lecteurs.
+- Du texte.
+- Des images.
+- Des boutons.
+- Un arrière-plan.
+
+#### Navigation
+
 - La navigation est la même que sur la page d’accueil.
-- Les lecteurs sont soit des boîtes avec images et textes dedans et en bas de la boîte le lecteur, soit une liste de
-  tous les lecteurs avec le background qui change suivant la musique jouée. Le lecteur possède un bouton Play/Pause et
-  un timer. Si on change de musique l’ancien lecteur se remet à zéro.
-- Les boutons redirigent sur soit un pop-up ou alors une page dédiée pour voir le texte de la chanson.
-  (Ajouter des morceaux de vidéos qui boucle ?).
+
+#### Lecteurs
+
+- Les lecteurs sont des boîtes avec images et textes dedans et en bas de la boîte du lecteur.
+- Le lecteur possède un bouton Play/Pause et un timer. Si on change de musique le lecteur précédemment joué se remet à
+  zéro.
+
+#### Boutons
+
+- Les boutons redirigent sur un pop-up (boîte qui s'affiche à l'écran par-dessus la page) pour voir le texte de la
+  chanson.
 
 ## Les dates
 
-- La page des dates contient une navigation, une liste, un calendrier, des boutons et un background.
+### Contenu :
+
+- une navigation.
+- une liste.
+- Un calendrier.
+- Des boutons.
+- Un background.
+
+#### Navigation
+
 - La navigation est la même que sur la page d’accueil.
-- La liste contient les dates de concerts (lieux, heures, ?).
-- Le calendrier est plus petit que la liste et est affiché dans un coin ou autres de la page, il a des cases coloriées
-  pour indiquer quels jours il y a des concerts.
-- Les boutons permettent de rediriger vers une page pour réserver une place (contact direct/GIPStarter/… ?).
+
+#### Liste
+
+- La liste contient les dates de concerts (lieux, heures, ...).
+
+#### Calendrier
+
+- Le calendrier est plus petit que la liste et est affiché dans un coin ou autres de la page.
+- Il a des cases coloriées pour indiquer quels jours il y a des concerts.
+- Lors du survole (et du clique) une boîte s'affiche au-dessus de la case pour y affiché les infos de la date.
+
+#### Boutons
+
+- Les boutons stylisés permettent de rediriger vers une page pour réserver une place (contact direct/GIPStarter/… ?).
 
 ## Le magasin
 
-- La page du magasin contient une navigation, une grille, du texte, des photos, (background).
+### Contenu :
+
+- Une navigation.
+- Une grille.
+- Du texte.
+- Des photos.
+
+#### Navigation
+
 - La navigation est la même que sur la page d’accueil.
-- La grille contient l’ensemble d’un produit en vente. Elle est composée d’une photo assez grande avec du texte
-  descriptif du produit sur la droite et des photos du produit, plus petites, en bas de la grande photo si besoin. Avec
-  un bouton pour acheter le produit (Contact direct ?).
-- Le background peut être des illustrations, des photos, …
+
+#### Grille
+
+- La grille contient l’ensemble d’un produit en vente. Elle est composée d’une photo assez grande avec le texte
+  descriptif du produit sur la droite et des photos du produit, plus petites, en bas de la grande photo si besoin.
+- Avec un bouton stylisé pour acheter le produit (Contact direct ?).
 
 ## Contact
 
-- La page de contact contient une navigation, un formulaire de contact, une photo d’arrière-plan et un bouton.
+### Contenu :
+
+- une navigation.
+- un formulaire de contact.
+- un bouton.
+- un arrière-plan.
+
+#### Navigation
+
 - La navigation est la même que sur la page d’accueil.
-- Le formulaire contient un champ pour : Nom et Prénom, adresse mail, numéro de téléphone (optionnel), message. Et un
-  bouton envoyé stylisé.
+
+#### Formulaire
+
+- Le formulaire contient un champ pour : Nom et Prénom, adresse mail, numéro de téléphone (optionnel), message.
+- Les noms des champs sont inscrit directement dans les champs dans une opacité réduite et le nom du champ sur lequel on clique disparait lors du clique sur le champ.
+
+#### Bouton
+
+- Et un bouton envoyé stylisé.
+
+#### Arrière-plan
+
 - La photo d’arrière-plan est une photo du groupe.
