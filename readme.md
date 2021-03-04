@@ -23,31 +23,32 @@ pour ce projet est PANKART, un groupe de musique Rock/Celtic engagé.
 
 #### Navigation
 
-- La navigation sera affichée comme une navigation sous forme de points. Les points seront une autre icône (notes de
-  musique par exemple).
-- La section courante est en clair et les autres en opacité réduite. Lorsque le curseur de la souris est sur la
-  navigation, les noms des sections s’affichent.
-- La navigation comprendra : Accueil, À propos, Les membres, Les musiques, Les dates, Le magasin (l’opé), (Les News) et
-  Contact.
+- La navigation sera affichée comme une navigation sous forme de points. Les points seront d'autres icônes (Notes de
+  musique pour la section des musiques, icône de personnage pour la section des membres, ...).
+- La section courante est en clair et les autres en opacité réduite, pour s'y retrouver plus facilement. Lorsque le
+  curseur de la souris est sur la navigation, les noms des sections s’affichent.
+- La navigation comprendra : Accueil, À propos, Les membres, Les musiques, Les dates, Le magasin (l’opé) et Contact.
 
 #### Réseaux sociaux
 
 - Les réseaux sociaux seront affichés les uns à côté des autres en haut à droite des pages.
 - Ils ont un style en commun.
+- Ils redirigent vers les comptes du groupe.
 
 #### Arrière-plan
 
 - L'arrière-plan est une photo du groupe Pankart ou une série de photos qui défileront/qui disparaissent et
-  réapparaissent/...
+  réapparaissent/... Pour déjà donner une impression aux utilisateurs.
 
 #### Texte
 
-- Le texte sera une introduction au site et groupe, un petit texte brièvement descriptif.
+- Le texte sera une introduction au site et groupe, un petit texte brièvement descriptif et accrocheur.
 
 #### Petits plus
 
 - Les dates de concerts peuvent être affichées en discret dans un coin de la page (en bas à droite par exemple) et
-  cliquable pour rediriger vers la page des dates.
+  cliquable pour rediriger vers la page des dates. Comme ça pour les utilisateurs qui connaissent déjà le site ils n'ont
+  pas besoin d'aller cliquer sur la navigation, ni de scroller et le lien est direct là.
 
 ## À propos
 
@@ -97,7 +98,8 @@ pour ce projet est PANKART, un groupe de musique Rock/Celtic engagé.
 - Il permet de passer d'une partie à l'autre (aller à gauche et à droite) grâce à des boutons (sous formes de flèches ou
   autre mais qui indique bien qu'on peut voyager dans le slider).
 - Si les membres du groupe le souhaitent, le style du slider peut changer (seulement des éléments mineurs, pas toute la
-  page), pour correspondre à l'état d'esprit du membre et de son caractère, ses goûts.
+  page), pour correspondre à l'état d'esprit du membre et de son caractère, ses goûts. Cela peut permettre à
+  l'utilisateur de comprendre les membres et de voir de la diversité à la place de quelque chose de monotone.
 
 #### Texte
 
@@ -151,7 +153,7 @@ pour ce projet est PANKART, un groupe de musique Rock/Celtic engagé.
 
 #### Liste
 
-- La liste contient les dates de concerts (lieux, heures, ...).
+- La liste contient les dates de concerts (lieux, heures, musiques jouées, ...).
 
 #### Calendrier
 
@@ -198,7 +200,8 @@ pour ce projet est PANKART, un groupe de musique Rock/Celtic engagé.
 #### Formulaire
 
 - Le formulaire contient un champ pour : Nom et Prénom, adresse mail, numéro de téléphone (optionnel), message.
-- Les noms des champs sont inscrit directement dans les champs dans une opacité réduite et le nom du champ sur lequel on clique disparait lors du clique sur le champ.
+- Les noms des champs sont inscrit directement dans les champs dans une opacité réduite et le nom du champ sur lequel on
+  clique disparait lors du clique sur le champ.
 
 #### Bouton
 
@@ -207,3 +210,8 @@ pour ce projet est PANKART, un groupe de musique Rock/Celtic engagé.
 #### Arrière-plan
 
 - La photo d’arrière-plan est une photo du groupe.
+
+## WordPress
+
+Un système d'administration en ligne vous permettra de vous occuper du site, ajouter/supprimer/modifier ce que vous
+voulez dans les capsules et les textes du site. Sans modifier le gros du contenu.
