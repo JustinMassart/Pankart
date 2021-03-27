@@ -2,8 +2,33 @@
 
 ## Projet PANKART
 
+Lien du repo : https://github.com/hepl-dw/projet-pankart.git
+
 Ce repo fait office du dossier concernant le projet scolaire visant à faire un site web pour un client réel. Le client
 pour ce projet est PANKART, un groupe de musique Rock/Celtic engagé.
+
+### Notes pour le projet :
+
+- Design moderne dans le rock/celtic (festif, ambiance)
+- Section pour présenter le groupe ainsi que chaque membres individuellement (un minimum de design change en fonction de quel membre on regarde suivant leurs goûts?)
+- Design sonore ?
+- Section pour les chansons (à écouter et écrites) (Vidéo?)
+- Moyen de réservation (redirection sur GIPStarter/contact direct)
+- Calendrier des dates
+- Commande de l'opé (contact direct?)
+- Budget minimum pour typos/images
+- Section News (à voir...)
+- Mini-jeux contre certaines personnalités (à voir...)
+
+### Lien vers Milanote :
+
+https://app.milanote.com/1Ld0fT1FRpghd9?p=aowczQKTiKW
+
+### Liens vers les moodboards :
+
+Behance : https://www.behance.net/collection/182389349/PANKART
+
+Dribbble : https://dribbble.com/Massart/collections/4470747-PANKART
 
 # Stratégie
 
