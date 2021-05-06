@@ -1,0 +1,67 @@
+/* Tutoriel : http://www.alsacreations.com/tuto/lire/1058-ID-slideshow-css3-target-animation.html */
+
+.members__slideshow {
+  display: flex;
+  justify-content: center;
+  margin: 200px 0;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  flex-direction: row;
+}
+
+#slideshow {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: 30px;
+  overflow: hidden;
+}
+#sContent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 450px;
+  margin: 0;
+  padding: 0;
+  z-index: 10;
+
+  /*CSS3 transition*/
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+}
+#sContent li {
+  display: inline;
+}
+
+#slideshow .next, #slideshow .prev {
+  position: absolute;
+  top: 65px;
+  z-index: 20;
+}
+#slideshow .prev { left: 0; }
+#slideshow .next { right: 0; }
+
+#slideshow .next, #slideshow .prev { display: none; }
+#slideshow .next1 { display: block; }
+
+
+#s1:target #sContent { left: 0; }
+#s1:target .next, #s1:target .prev { display: none; }
+#s1:target .next1 { display: block; }
+
+
+#s2:target #sContent { left: -800px; }
+#s2:target .next, #s2:target .prev { display: none; }
+#s2:target .next2, #s2:target .prev2 { display: block; }
+
+
+#s3:target #sContent { left: -1600px; }
+#s3:target .next, #s3:target .prev { display: none; }
+#s3:target .prev3 { display: block; }
